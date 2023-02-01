@@ -1,0 +1,14 @@
+{
+  "name": "Desafio-01-ignite",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.3.4",
+    "node-fetch": "^3.3.0"
+  }
+}
